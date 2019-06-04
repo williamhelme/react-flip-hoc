@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "lodash.without": "^4.4.0",
+    "react": "^16.8.6",
+    "styled-components": "^4.2.1"
+  }
+}
